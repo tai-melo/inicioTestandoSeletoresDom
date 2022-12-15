@@ -12,4 +12,9 @@ console.log(textos);
 console.log(textos[0]);
 
 const segundoTitulo = document.querySelector("div h2");
-console.log(segundoTitulo)
+console.log(segundoTitulo);
+
+
+const textosPorClasse = document.querySelectorAll(".texto-simples");
+console.log(textosPorClasse);
+
